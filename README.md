@@ -19,6 +19,7 @@ Create a visual representation of data to communication insights clearly and als
 - Excel.xlxs – Pivot table 
 - dataset.xlxs – Dataset used.
 
+A Special thanks to Decodelabs for providing and giving me such privilege to hands-on practice. I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
   
 
 ## Tools Used
